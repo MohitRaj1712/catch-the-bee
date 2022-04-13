@@ -5,7 +5,7 @@ import pygame
 pygame.init()
 
 #game constants
-GAME_FOLDER = 'd:/batches/art_of_game_development/game_2/'
+GAME_FOLDER = 'd:/Catch_the_bee
 WINDOW_WIDTH = 1400
 WINDOW_HEIGHT = 700
 
